@@ -1,0 +1,14 @@
+{
+  "short_name": "Eric's A Gym Rat",
+  "name": "Eric's Gym Helper Stuffs",
+  "icons": [
+    {
+      "src": "https://cdn.glitch.com/30dc728f-880d-43a2-9f5b-cd74be4fd49d%2Fweightlifter.png?v=1603906257136",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}

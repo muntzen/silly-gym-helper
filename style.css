@@ -1,0 +1,86 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+div {
+  margin: auto;
+  width: 100%;
+  text-align: center;
+}
+
+#count {
+  font-size: 250px;
+}
+
+#navbuttons {
+  padding-inline-start: 0;
+  padding-left: 0;
+}
+
+#navbuttons li {
+  list-style: none;
+  width: 100%;
+  text-align: center;
+  line-height: 50px;
+  margin-bottom: 10px;
+}
+
+#plates {
+  padding-inline-start: 0;
+  padding-left: 0;
+}
+
+#plates li {
+  float: left;
+  list-style: none;
+  width: 45%;
+  text-align: center;
+  line-height: 50px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  background-color: lightgrey;
+  font-size: 25px;
+}
+
+.button {
+  border-radius: 5px;
+}
+
+a.button {
+  background-color: #778899;
+  color: white;
+  text-decoration: none;
+  display: block;
+}
+
+button.button {
+  width: 49%;
+  border: none;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
+
+input.weight {
+  width: 100%;
+  line-height: 50px;
+  margin-bottom: 10px;
+  font-size: 48px;
+}
+
+button.calculate {
+  width: 100%;
+  background-color: #6495ED;
+  font-size: 25px;
+}
+
+button.clear {
+  background-color: #d11a2a;
+}
+button.increment {
+  background-color: #4CAF50;
+}
